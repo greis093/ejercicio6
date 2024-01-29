@@ -1,0 +1,3 @@
+Creamos nuestro fichero2
+segunda linea de nuestro fichero2
+tercera linea de nuestro fichero2
